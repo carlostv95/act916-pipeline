@@ -1,0 +1,16 @@
+{
+  "generated": "2026-05-05",
+  "week": "2026-W19",
+  "instructions": "Este archivo es generado automáticamente cada domingo por el scheduled task de Claude. Para agregar tareas al pipeline: créalas en Notion > Tasks & Workflow y asígnales un 'Proyecto Pipeline'.",
+  "tasks": [
+    {
+      "id": "326b9a4721fa80cab405de7494156152",
+      "name": "Nueva Tarea",
+      "status": "Not started",
+      "project": null,
+      "dueDate": null,
+      "priority": null,
+      "url": "https://www.notion.so/326b9a4721fa80cab405de7494156152"
+    }
+  ]
+}
